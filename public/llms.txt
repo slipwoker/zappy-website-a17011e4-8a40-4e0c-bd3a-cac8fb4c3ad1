@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+עמותת אמא ישראל מעניקה תמיכה מקיפה לאמהות במצבי משבר. הצטרפו לארגון ההתנדבותי המוביל וגלו כיצד אתם יכולים לעזור ולתרום למען אמהות זקוקות.
+
+### אודות ושקיפות
+https://example.com/about
+גלו את הערכים, החזון והדוחות הכספיים של עמותת אמא. אנחנו מאמינים בשקיפות מוחלטת ומציגים בפניכם את כל הפעילויות וההישגים שלנו למען אמהות בישראל.
+
+### תוכניות
+https://example.com/programs
+סקרו את מגוון תוכניות התמיכה והסיוע שלנו: ליווי רגשי, סיוע כלכלי, ייעוץ משפטי ועוד. כל תוכנית מותאמת אישית לצרכים של אמהות במצבים שונים.
+
+### צור קשר
+https://example.com/contact
+זקוקות לעזרה? רוצים לתרום או להתנדב? צרו קשר עם עמותת אמא ישראל והצטרפו למעגל התומכים. אנחנו כאן בשבילכן ובשבילכם עם מענה מהיר ואכפתי.
+
+### Products
+https://example.com/products
+המוצרים שלנו - עמותת אמ"א
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - עמותת אמ"א
+
+### Category
+https://example.com/category/:slug
+מוצרים - עמותת אמ"א
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
